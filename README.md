@@ -8,3 +8,6 @@ For this assignment, you’ll sort through historical trade data for Bitcoin on 
 
 ## What You're Creating
 You’ll create a Jupyter notebook that contains the code for your data collection, preparation, and analysis, including any visualizations. Within the same notebook file, you should use comments and text to document your analysis, including the answers to the questions in the Challenge instructions. Make this report clear and concise. Add appropriate comments to the code, and include any necessary labels for the visualizations. Remember that you’ll present this report to your VP!
+
+## Technologies
+I used Jupyter notebook to write all my code and visualize it. Jupyter notebook works much better than Virtual Studio Code in terms of visualizing data using pandas.
